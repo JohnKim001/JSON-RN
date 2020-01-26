@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.546a54df.chunk.css",
+    "main.js": "/static/js/main.9316b7cb.chunk.js",
+    "main.js.map": "/static/js/main.9316b7cb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5fae8485.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5fae8485.js.map",
+    "static/css/2.f96566d3.chunk.css": "/static/css/2.f96566d3.chunk.css",
+    "static/js/2.c55da4a8.chunk.js": "/static/js/2.c55da4a8.chunk.js",
+    "static/js/2.c55da4a8.chunk.js.map": "/static/js/2.c55da4a8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f6a662715e2b872bfaf719bebdafea25.js": "/precache-manifest.f6a662715e2b872bfaf719bebdafea25.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.f96566d3.chunk.css.map": "/static/css/2.f96566d3.chunk.css.map",
+    "static/css/main.546a54df.chunk.css.map": "/static/css/main.546a54df.chunk.css.map",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/index.css": "/static/media/open-sans-latin-800italic.c62c3eea.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fae8485.js",
+    "static/css/2.f96566d3.chunk.css",
+    "static/js/2.c55da4a8.chunk.js",
+    "static/css/main.546a54df.chunk.css",
+    "static/js/main.9316b7cb.chunk.js"
+  ]
+}
